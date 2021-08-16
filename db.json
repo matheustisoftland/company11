@@ -1,0 +1,51 @@
+{
+     
+    
+     
+        "talkipc": [
+     {
+        "id": 1,
+        "lote": "",
+        "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkipr": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+     
+      "talkiplinkc": [
+     {
+        "id": 1,
+        "lote": "",
+        "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkiplinkr": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+     
+   
+}
