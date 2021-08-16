@@ -2,7 +2,7 @@
      
     
      
-        "talkipc": [
+        "company11c": [
      {
         "id": 1,
         "lote": "",
@@ -13,7 +13,7 @@
         "avatar": ""
       }
     ],
-       "talkipr": [
+       "company11r": [
      {
         "id": 1,
         "lote": "",
@@ -23,29 +23,6 @@
         "resposta": ""
       }
     ],
-     
-     
-      "talkiplinkc": [
-     {
-        "id": 1,
-        "lote": "",
-        "formato": "",
-        "numero": "",
-        "texto": "",
-        "banner": "",
-        "avatar": ""
-      }
-    ],
-       "talkiplinkr": [
-     {
-        "id": 1,
-        "lote": "",
-        "numero": "",
-        "campanha": "",
-        "status": "",
-        "resposta": ""
-      }
-    ]
      
    
 }
